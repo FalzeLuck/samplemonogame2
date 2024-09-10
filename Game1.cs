@@ -11,6 +11,8 @@ namespace samplemonogame2
 
 
         private Texture2D aaa;
+        private int lala;
+        private int lala2;
 
         public Game1()
         {
