@@ -9,7 +9,7 @@ namespace samplemonogame2
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
-        //gamekak
+        //gamekakmha
 
         public Game1()
         {
