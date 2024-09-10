@@ -9,6 +9,8 @@ namespace samplemonogame2
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
+        //Chotayakorn Update Feature 1
+
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
