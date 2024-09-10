@@ -4,6 +4,7 @@ using Microsoft.Xna.Framework.Input;
 
 namespace samplemonogame2
 {
+    //Piamsiri
     public class Game1 : Game
     {
         private GraphicsDeviceManager _graphics;
