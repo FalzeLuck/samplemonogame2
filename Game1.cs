@@ -50,7 +50,7 @@ namespace samplemonogame2
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
-            // TODO: Add your drawing code here
+            // TODO: Add your drawing code here fuck that shit a mouse`mMMM
 
             base.Draw(gameTime);
         }
