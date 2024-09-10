@@ -4,16 +4,12 @@ using Microsoft.Xna.Framework.Input;
 
 namespace samplemonogame2
 {
-    //Piamsiri
     public class Game1 : Game
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
-
-        private Texture2D aaa;
-        private int lala;
-        private int lala2;
+        //gamekakmha
 
         public Game1()
         {
