@@ -6,7 +6,7 @@ namespace samplemonogame2
 {
     public class Game1 : Game
     {
-        private GraphicsDeviceManager _graphics;
+        private GraphicsDeviceManager _graphics;sad
         private SpriteBatch _spriteBatch;
 
         public Game1()
